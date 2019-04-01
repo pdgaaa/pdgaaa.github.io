@@ -1,2 +1,3 @@
 name: Linux et autres
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
