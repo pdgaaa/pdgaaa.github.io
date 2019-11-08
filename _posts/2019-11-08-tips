@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Daily tips"
+date: 2019-11-08
+---
+
+``
+vim lefichier_iso8859.csv '+%s/\n/\ /' '+%s/\ 303/\r303/g' +x
+``
+
+````
+iconv -f UTF-8 -t ISO-8859-15//TRANSLIT --output=lefichier_iso8859.csv lefichier.csv
+````
