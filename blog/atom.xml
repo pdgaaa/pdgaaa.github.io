@@ -11,7 +11,7 @@ layout: feed
 	<id>http://pdgaaa.github.io/blog</id>
 	<author>
 		<name>Brain Damage</name>
-		<email>braindamage@sigma5.fr</email>
+		<email>braindamage@email.fr</email>
 	</author>
 
 	{% for post in site.posts %}
