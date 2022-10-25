@@ -1,4 +1,3 @@
-# braindamage.github.io
-Linux et autres
+Linux and other things
 
 https://pdgaaa.github.io/blog/
